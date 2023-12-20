@@ -1,0 +1,17 @@
+
+.container h1{
+ font-size: 50px;
+}
+
+button{
+  width: 80px;
+  height: 30px;
+  font-size: 25px;
+  margin-bottom: 20px;
+}
+
+.Text{
+  font-size: 30px;
+  margin: 0px 20px;
+
+}
